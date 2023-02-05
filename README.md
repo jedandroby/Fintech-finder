@@ -4,7 +4,7 @@
 ---
 Challenge 19 for Fintech bootcamp through UC Berkeley. Using python to connect to a ganache test RPC and streamlit to display a web-app for fintech developers, to simulate paying someone ETH for online development work. This project contains two main files, `crypto_wallet.py` and `fintech_finder.py`. Where the former has all the functions related to connecting to the ganache RPC, and the later has the code and functions for launching the streamlit application you can see below. 
 ![streamlit dash](./Images/webapp.png)
-Once it was up and running I sent some test transactions just to make sure it was working and you can see the resulting transaction below through ganache. 
+Once it was up and running I sent some test transactions just to make sure it was working and you can see the resulting transactions below through ganache. 
 ![ganache](./Images/ganache_balances.png)
 ![ganache](./Images/ganache_transactions.png)
 ![ganache](./Images/ganache_detail.png)
